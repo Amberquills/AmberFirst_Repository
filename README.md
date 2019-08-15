@@ -2,4 +2,5 @@
 
 Demo repository for intro to git and github
 
-Dummy files and analysis
+* data/: dummy data files
+* analysis.txt and notes.txt: dummy text files
